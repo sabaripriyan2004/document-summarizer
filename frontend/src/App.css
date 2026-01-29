@@ -1,0 +1,51 @@
+/* .container {
+  display: flex;
+}
+
+.left-pane {
+  flex: 1;
+  padding: 20px;
+}
+
+.pdf-container {
+  height: 70vh;
+}
+
+.controls {
+  margin-top: 10px;
+}
+
+.right-pane {
+  flex: 1;
+  padding: 20px;
+}
+
+input[type="file"] {
+  margin-bottom: 10px;
+}
+
+button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px; 
+}
+
+button:disabled {
+  background-color: #d1d1d1;
+  color: #666666;
+  cursor: not-allowed;
+}
+
+.summary {
+  margin-top: 20px;
+  border: 1px solid #28a745; 
+  background-color: #d4edda; 
+  color: #155724; 
+  padding: 10px;
+  overflow-y: auto;
+  max-height: 400px;
+  border-radius: 5px; 
+} */
